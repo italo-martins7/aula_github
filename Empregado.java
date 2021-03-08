@@ -5,6 +5,7 @@ public class Empregado{
     private double bonus;
     private String nome;
     private int idade;
+    sd
 
     public double calcularSalario(){
         switch(tipo){
